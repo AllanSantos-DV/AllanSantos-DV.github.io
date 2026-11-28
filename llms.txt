@@ -1,0 +1,40 @@
+# Ferramentas para agentes de IA
+
+> Dezesseis produtos para trabalhar com agentes de IA: o que são, para que servem e onde baixar.
+
+## Produtos
+- [VXK](https://allansantos-dv.github.io/produtos/vxk/): Seu agente escreve o roteiro; o VXK entrega a explicação pronta, em página animada com voz ou em vídeo. Instalar: `copilot plugin install visual-explainer@copilot-marketplace`
+- [Agent Launcher](https://allansantos-dv.github.io/produtos/agent-launcher/): Abre Claude Code, Codex e Copilot nos seus projetos, ligados ao provedor de modelos que você escolher. Instalar: `npx @allansantos-dev/agent-launcher@latest install`
+- [Smart Tool](https://allansantos-dv.github.io/produtos/smart-tool/): Um servidor local que dá ao agente busca de código e de web mais precisas e mais baratas. Instalar: `npx @allansantos-dev/smart-tool@latest install`
+- [MCP Memory Server](https://allansantos-dv.github.io/produtos/mcp-memory/): Uma memória por projeto, compartilhada por todas as suas ferramentas de IA.
+- [token-guard](https://allansantos-dv.github.io/produtos/token-guard/): Barra as chamadas que estouram a janela do agente e sempre devolve a alternativa barata. Instalar: `npx @allansantos-dev/token-guard audit`
+- [Skill Manager](https://allansantos-dv.github.io/produtos/skill-manager/): Sincroniza skills, agents e hooks do Copilot a partir de vários repositórios Git.
+- [Vox Engine](https://allansantos-dv.github.io/produtos/vox-engine/): Um motor de voz local, com ditado, transcrição, tradução e fala, compartilhado por todos os seus apps.
+- [Cerne](https://allansantos-dv.github.io/produtos/cerne/): Lê um vídeo por você: escolhe os quadros-chave, transcreve, traduz e guarda numa memória pesquisável.
+- [Action](https://allansantos-dv.github.io/produtos/action/): Grava e transcreve reuniões no Windows, localmente, e deixa o agente da sua IDE acompanhar.
+- [MCP Gateway](https://allansantos-dv.github.io/produtos/mcp-gateway/): Um endpoint para todos os seus servidores MCP, compartilhado por todas as sessões.
+- [Copilot Mobile](https://allansantos-dv.github.io/produtos/copilot-mobile/): Continue a conversa com o agente do Copilot pelo celular. Instalar: `copilot plugin install copilot-mobile@copilot-marketplace`
+- [Claude Code Boss](https://allansantos-dv.github.io/produtos/claude-code-boss/): Plugin do Claude Code com memória de projeto, execução curada de comandos e rota própria de modelos. Instalar: `/plugin marketplace add AllanSantos-DV/claude-code-plugins`
+- [Client Harness](https://allansantos-dv.github.io/produtos/client-harness/): Faz o Claude Code e o Codex seguirem o padrão de cada cliente: confere cada ação antes de o agente escrever e recusa com o motivo.
+- [local-ci-forge](https://allansantos-dv.github.io/produtos/local-ci-forge/): Transforma o seu Windows com WSL em runners do GitHub Actions, sem o teto de minutos do mês.
+- [like-move](https://allansantos-dv.github.io/produtos/like-move/): Mantém o Windows acordado com um movimento imperceptível do mouse, só quando você quer. Instalar: `npx like-move`
+- [Security Check](https://allansantos-dv.github.io/produtos/security-check/): Auditoria de segurança e de LGPD de repositórios, dentro do Copilot Chat do VS Code.
+
+## Outros projetos
+- [Bolão Mega](https://allansantos-dv.github.io/Bolao_Mega/): Sistema de bolões da Mega-Sena.
+- [Calculadora de KM](https://allansantos-dv.github.io/Calculadora-Km/): Calcula a distância e o valor do combustível de uma viagem.
+- [copilot-marketplace](https://allansantos-dv.github.io/copilot-marketplace/): Catálogo de plugins para o GitHub Copilot CLI, com uma página por plugin.
+- [Devergente](https://allansantos-dv.github.io/Front-End-Devergente/): Projeto de front-end em TypeScript.
+- [Exercícios](https://allansantos-dv.github.io/Exercicios/): Coleção de exercícios de HTML, CSS e JavaScript.
+- [Exercícios do estágio](https://allansantos-dv.github.io/Exercicios_Estagio/): Exercícios de front-end feitos no estágio.
+- [Fatec Pokémon](https://allansantos-dv.github.io/SiteFatec/): Site de Pokémon Go para um trabalho da Fatec.
+- [Impact](https://allansantos-dv.github.io/Impact/): Template Bootstrap Impact, adaptado.
+- [Lista de links em cards](https://allansantos-dv.github.io/Lista-jquery/): Links organizados em cards, feito com jQuery.
+- [opencode-marketplace](https://allansantos-dv.github.io/opencode-marketplace/): Catálogo de plugins para o OpenCode.
+- [Retro Games](https://allansantos-dv.github.io/Site-HTML/): Página de jogos retrô em HTML.
+- [Site do Batman](https://allansantos-dv.github.io/Site-BootStrap/): Site temático em Bootstrap.
+- [Skill Kit](https://allansantos-dv.github.io/skill-kit/): Skills, agents e hooks prontos para o Skill Manager.
+
+## Optional
+- [Todos os sites publicados](https://allansantos-dv.github.io/sites/)
+- [Como os produtos se conectam](https://allansantos-dv.github.io/conexoes/)

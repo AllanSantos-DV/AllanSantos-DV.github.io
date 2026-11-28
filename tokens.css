@@ -1,0 +1,113 @@
+/**
+ * Do not edit directly, this file was auto-generated.
+ */
+
+:root {
+  --color-bg: #07110e; /** Window/page background */
+  --color-surface: #0c1a15; /** Cards, panels, inputs */
+  --color-surface-alt: #12261e; /** Hover, selected rows, headers */
+  --color-text: #eaf4ef; /** Body text */
+  --color-text-muted: #a8c2b5; /** Secondary text */
+  --color-accent: #6ef2b5; /** Primary action, links, focus */
+  --color-on-accent: #04110c; /** Text on the accent */
+  --color-border: #2a4a3e; /** Dividers and outlines (decorative, not text) */
+  --color-danger: #ff8a5c; /** Errors */
+  --color-success: #6ef2b5; /** Success */
+  --color-warning: #ffd166; /** Warnings */
+  --color-focus: #ffd166; /** Keyboard focus ring */
+  --color-faint: #7fa092; /** Tertiary labels, dashed outlines */
+  --color-accent-strong: #a8ffd8; /** Accent on hover */
+  --color-text-soft: #d4e6dc; /** Long text inside product blocks */
+  --color-coral: #ff8a5c; /** Category: voice and explanation */
+  --color-sky: #7cc4ff; /** Category: context and memory */
+  --color-violet: #b79cff; /** Category: infrastructure */
+  --color-amber: #ffd166; /** Category: utilities */
+  --color-node-hover: #1a362b; /** Diagram node on hover */
+  --color-header: rgba(7, 17, 14, 0.92); /** Sticky header over the page */
+  --color-glow-accent: rgba(110, 242, 181, 0.1); /** Background glow (accent) */
+  --color-glow-sky: rgba(124, 196, 255, 0.07); /** Background glow (sky) */
+  --color-grid: rgba(110, 242, 181, 0.035); /** Background grid lines */
+  --font-heading: Bahnschrift, 'Segoe UI Variable Display', 'Segoe UI', sans-serif;
+  --font-body: 'Segoe UI Variable Text', 'Segoe UI', sans-serif;
+  --font-mono: 'Cascadia Mono', Consolas, monospace;
+  --font-size-sm: 12px;
+  --font-size-md: 14px;
+  --font-size-lg: 17px;
+  --font-size-xl: 22px;
+  --font-size-xxl: 30px;
+  --font-size-f11: 11px;
+  --font-size-f11-5: 11.5px;
+  --font-size-f12: 12px;
+  --font-size-f13: 13px;
+  --font-size-f13-5: 13.5px;
+  --font-size-f14: 14px;
+  --font-size-f14-5: 14.5px;
+  --font-size-f15: 15px;
+  --font-size-f15-5: 15.5px;
+  --font-size-f16: 16px;
+  --font-size-f17: 17px;
+  --font-size-f18: 18px;
+  --font-size-f19: 19px;
+  --font-size-f20: 20px;
+  --font-size-f22: 22px;
+  --font-size-f24: 24px;
+  --font-size-f32: 32px;
+  --font-size-f34: 34px;
+  --font-size-f52: 52px;
+  --font-size-f64: 64px;
+  --font-weight-regular: 400;
+  --font-weight-semibold: 600;
+  --font-weight-bold: 700;
+  --line-height-tight: 1.25;
+  --line-height-normal: 1.5;
+  --space-xs: 3px;
+  --space-sm: 7px;
+  --space-md: 10px;
+  --space-lg: 14px;
+  --space-xl: 20px;
+  --space-xxl: 27px;
+  --space-s3: 3px;
+  --space-s4: 4px;
+  --space-s5: 5px;
+  --space-s6: 6px;
+  --space-s8: 8px;
+  --space-s9: 9px;
+  --space-s10: 10px;
+  --space-s12: 12px;
+  --space-s14: 14px;
+  --space-s16: 16px;
+  --space-s18: 18px;
+  --space-s20: 20px;
+  --space-s22: 22px;
+  --space-s24: 24px;
+  --space-s28: 28px;
+  --space-s30: 30px;
+  --space-s32: 32px;
+  --space-s34: 34px;
+  --space-s36: 36px;
+  --space-s40: 40px;
+  --radius-sm: 4px;
+  --radius-md: 6px;
+  --radius-lg: 10px;
+  --radius-r6: 6px;
+  --radius-r8: 8px;
+  --radius-r9: 9px;
+  --radius-r10: 10px;
+  --radius-r11: 11px;
+  --radius-r12: 12px;
+  --radius-r14: 14px;
+  --radius-r16: 16px;
+  --radius-r99: 99px;
+  --elevation-1: 0px 1px 2px 0px #00000066;
+  --elevation-2: 0px 4px 10px 0px #00000073;
+  --elevation-3: 0px 12px 28px -4px #00000080;
+  --elevation-card: 0px 10px 30px 0px #00000066;
+  --elevation-tela: 0px 18px 50px 0px #00000073;
+  --motion-duration-fast: 0.12s;
+  --motion-duration-base: 0.2s;
+  --motion-duration-slow: 0.4s;
+  --motion-duration-d150: 0.15s;
+  --motion-duration-d250: 0.25s;
+  --motion-duration-d500: 0.5s;
+  --motion-easing-standard: cubic-bezier(0.2, 0, 0, 1);
+}
